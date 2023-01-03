@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @swayam0815
 - 🌱 I’m currently learning full-stack web development, python and Computer Science in University.
-- 📫 Reach out to me on: @swayam_0815 on instagram or swayam0815@gmail.com by email!
+- 📫 Reach out to me by email at swayam0815@gmail.com!
