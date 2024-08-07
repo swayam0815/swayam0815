@@ -34,6 +34,6 @@
 
 ###
 
-<p align="left">Hello there! Welcome to my GitHub profile. I'm Swayam Sachdeva, a gruntled developer specializing in web development, full-stack development, and game development. Explore my projects showcasing my skills and interests in these areas. Feel free to fork, contribute, or connect—I’m always open to collaboration.</p>
+<p align="left">Hello there! Welcome to my GitHub profile. I'm Swayam Sachdeva, a developer specializing in web development, full-stack development, and game development. Explore my projects showcasing my skills and interests in these areas. Feel free to fork, contribute, or connect—I’m always open to collaboration.</p>
 
 ###
